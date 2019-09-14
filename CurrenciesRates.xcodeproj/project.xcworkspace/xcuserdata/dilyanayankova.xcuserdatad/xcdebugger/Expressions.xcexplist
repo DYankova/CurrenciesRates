@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ExchangeRateController.fetchData(baseSymbol:cuoteSymbol:currencyPair:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " currencyPair.exchangeRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Service.checkIfConsistInPairs(currencyPair:):Service.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pair.base?.name">
+            </PersistentString>
+            <PersistentString
+               value = "currencyPair.base?.name">
+            </PersistentString>
+            <PersistentString
+               value = "pair.base.name?.isEqual(currencyPair.base.name)">
+            </PersistentString>
+            <PersistentString
+               value = "shared.currencyPairs ">
+            </PersistentString>
+            <PersistentString
+               value = "((pair.base?.name?.isEqual(currencyPair.base?.name) ?? false) &amp;&amp; ((pair.cuote?.name?.isEqual(currencyPair.cuote?.name) ?? false)))">
+            </PersistentString>
+            <PersistentString
+               value = "pair.base">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrenciesListViewController.collectionView(_:numberOfItemsInSection:):CurrenciesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currencies.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Service.createCurrencyPair(base:cuote:):Service.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pair">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ExchangeRateController.fetchData(baseSymbol:cuoteSymbol:currencyPair:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " Array(jsonArray)[1].key">
+            </PersistentString>
+            <PersistentString
+               value = " currencyPair.exchangeRate ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in JsonFetcher.fetchData(baseSymbol:cuoteSymbol:):JsonFetcher.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(Array(jsonArray)[0].value)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeRateController.currencies.getter:ExchangeRateController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyCell.isSelected.willset:CurrencyCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nameLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrenciesListViewController.collectionView(_:didSelectItemAt:):CurrenciesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " cell.nameLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "markedBase">
+            </PersistentString>
+            <PersistentString
+               value = "shared.currencyPairs">
+            </PersistentString>
+            <PersistentString
+               value = "pair.cuote">
+            </PersistentString>
+            <PersistentString
+               value = "cell.nameLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "currencies[indexPath.item]">
+            </PersistentString>
+            <PersistentString
+               value = "pair.cuote!.name">
+            </PersistentString>
+            <PersistentString
+               value = "pair">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ExchangeRateController.fetchData(baseSymbol:cuoteSymbol:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonResponse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeRateController.fetchData(baseSymbol:cuoteSymbol:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeRateController.createCurrencyPair(base:cuote:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shared.currencyPairs">
+            </PersistentString>
+            <PersistentString
+               value = "currencyPairs">
+            </PersistentString>
+            <PersistentString
+               value = "currencyPair">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PairMarker.getExistingPairs(index:):PairMarker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Shared.shared.currencyPairs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrenciesListViewController.collectionView(_:layout:sizeForItemAt:):CurrenciesListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeRateController.checkIfConsist(currencyPair:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shared.currencyPairs">
+            </PersistentString>
+            <PersistentString
+               value = "currencyPair">
+            </PersistentString>
+            <PersistentString
+               value = "pair">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeRateController.markExistingPairs(base:):ExchangeRateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " pair.cuote?.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RateResultsViewController.collectionView(_:numberOfItemsInSection:):RateResultsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currencyPairs.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RateResultsViewController.collectionView(_:didSelectItemAt:):RateResultsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Service.fetchData(baseSymbol:cuoteSymbol:currencyPair:):Service.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Array(jsonArray)[1].value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PairCreator.checkIfConsistInPairs(currencyPair:):PairCreator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Shared.shared.currencyPairs">
+            </PersistentString>
+            <PersistentString
+               value = "((pair.base?.codeName?.isEqual(currencyPair.base?.codeName))!) ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
